@@ -13,7 +13,7 @@ Vi skal innom:
 
 :book: Github Actions er en tjeneste fra Github som passer bra til å kjøre CI-steg og utføre enkle deployment-oppgaver.
 
-Her er en liten oppsummering av hvordan flyten i CI/CD-pipelinen vår skal fungere.
+Her er en liten oppsummering av hvordan flyten i første versjon av CI/CD-pipelinen vår skal fungere.
 
 ```mermaid
 flowchart TD
