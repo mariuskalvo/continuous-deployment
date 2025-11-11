@@ -104,12 +104,14 @@ code
 ├── package-lock.json
 ├── package.json
 ├── src
+├── bode_modules
 ```
 
 - `index.html` er hovedfilen til appen
 - `package-lock.json` brukes av NPM for å holde styr på avhengigheter.
 - `package.json` inneholder metadata om appen, noen _scripts_ for bygging og testing, og en oversikt over avhengigheter.
 - `src` - inneholder JavaScript-koden til webappen
+- `node_modules` - lokale kopi av eksterne pakker/ avhengigheter lastet ned etter at npm install kjøres
 
 :pencil2: Kjør `npm start` i terminalen.
 
